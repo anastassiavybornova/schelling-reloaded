@@ -2,9 +2,10 @@
 
 <p align="center"><img src="images/matrix_notitle.png" width="100%" alt="Do you want to live next to a purple square?"/></p>
 
-Work in progress by Anastassia Vybornova & Gülşah Akçakır
 
-**Get in touch!** [anvy@.itu.dk](mailto:anvy@.itu.dk) & [gakcakir@ucla.edu](mailto:gakcakir@ucla.edu)
+## Get in touch! 
+
+Work in progress by [Anastassia Vybornova](mailto:anvy@.itu.dk) & [Gülşah Akçakır](mailto:gakcakir@ucla.edu)
 
 ## Timeline
 
@@ -20,7 +21,7 @@ Work in progress by Anastassia Vybornova & Gülşah Akçakır
 
 **2018:** The article ["A Schelling Model with Immigration Dynamics"](https://doi.org/10.1007/978-3-319-90418-4_1) by Urselmans et al. is an (unvoluntary) example of how the Schelling model can be used to steer attention away from systemic causes of segregation.
 
-**2022:** Nowadays, the Schelling model is still widely used in education - for example, in the online course "Agent-Based Modeling", compiled by the Santa Fe Institute, where the focus is once again on the fact that no large racist bias was *theoretically needed* to create racial segregation in the US. We suggest that it might be more relevant to ask whether a large racist bias was *at work* (spoiler alert: yes).  
+**2022:** Nowadays, the Schelling model is still widely used in education - for example, in the online course ["Agent-Based Modeling"](https://www.youtube.com/watch?v=9Hu-50BNVBc&list=PLF0b3ThojznRKYcrw8moYMUUJK2Ra8Hwl&index=15&ab_channel=ComplexityExplorer), compiled by the Santa Fe Institute, where the focus is once again on the fact that no large racist bias was *theoretically needed* to create racial segregation in the US. We suggest that it might be more relevant to ask whether a large racist bias was *at work* (spoiler alert: yes).  
 
 **2023:** For this work in progress that wants to critically review the Schelling model and its reception, we ask ourselves: How do marginalization and freedom of choice intersect, and what are the real-world intricacies of models that do not account for this intersection?
 
