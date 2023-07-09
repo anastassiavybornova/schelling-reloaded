@@ -26,4 +26,16 @@ Work in progress by Anastassia Vybornova & Gülşah Akçakır
 
 ### References
 
-insert refs here
+99% Invisible (2012). The Pruitt-Igoe Myth (No. 44). Retrieved 9 July 2023, from https://99percentinvisible.org/episode/episode-44-the-pruitt-igoe-myth/
+
+Clark, W. A. V. (1991). Residential preferences and neighborhood racial segregation: A test of the schelling segregation model. Demography, 28(1), 1–19. https://doi.org/10.2307/2061333
+
+Grauwin, S., Goffette-Nagot, F., & Jensen, P. (2012). Dynamic models of residential segregation: An analytical solution. Journal of Public Economics, 96(1–2), 124–141. https://doi.org/10.1016/j.jpubeco.2011.08.011
+
+Nelson, R. K., Winling, L., Marciano, R., & Connolly, N. (2023). Mapping Inequality. American Panorama, Ed. Robert K. Nelson and Edward L. Ayers. https://dsl.richmond.edu/panorama/redlining/
+
+Santa Fe Institute (2022). Agent-Based Modeling: Schelling's Tipping Model. Complexity Explorer. https://www.youtube.com/watch?v=9Hu-50BNVBc&list=PLF0b3ThojznRKYcrw8moYMUUJK2Ra8Hwl&index=15&ab_channel=ComplexityExplorer
+
+Schelling, T. C. (1969). Models of Segregation. The American Economic Review, 59(2), 488–494.
+
+Urselmans, L. (2018). A Schelling Model with Immigration Dynamics. In P. R. Lewis, C. J. Headleand, S. Battle, & P. D. Ritsos (Eds.), Artificial Life and Intelligent Agents (pp. 3–15). Springer International Publishing. https://doi.org/10.1007/978-3-319-90418-4_1
