@@ -15,7 +15,7 @@ Work in progress by [Anastassia Vybornova](mailto:anvy@.itu.dk) & [Gülşah Akç
 
 **1972:** Televised demolition of [Pruitt-Igoe](https://99percentinvisible.org/episode/episode-44-the-pruitt-igoe-myth/), a a housing project in St. Louis that became symbolic for the "failure of federal housing" in the US.
 
-**1991:** Following debates about the role of individual preferences in the creation of segregated neighbourhoods, W.A.V. Clark attempts to empirically test the Schelling model by means of telephone surveys.
+**1991:** Following debates about the role of individual preferences in the creation of segregated neighbourhoods, [W.A.V. Clark attempts](https://link.springer.com/article/10.2307/2061333) to empirically test the Schelling model by means of telephone surveys.
 
 **2012:** In their article ["Dynamic Models of Residential Segregation"](https://doi.org/10.1016/j.jpubeco.2011.08.011), Grauwin et al. provide an analytic solution of the Schelling model. With the rise of Complexity Science since the 2000s, the Schelling model is receiving increased attention, but the decisive role of individual preferences and free choice remains unquestioned. 
 
@@ -23,7 +23,9 @@ Work in progress by [Anastassia Vybornova](mailto:anvy@.itu.dk) & [Gülşah Akç
 
 **2022:** Nowadays, the Schelling model is still widely used in education - for example, in the online course ["Agent-Based Modeling"](https://www.youtube.com/watch?v=9Hu-50BNVBc&list=PLF0b3ThojznRKYcrw8moYMUUJK2Ra8Hwl&index=15&ab_channel=ComplexityExplorer), compiled by the Santa Fe Institute, where the focus is once again on the fact that no large racist bias was *theoretically needed* to create racial segregation in the US. We suggest that it might be more relevant to ask whether a large racist bias was *at work* (spoiler alert: yes).  
 
-**2023:** For this work in progress that wants to critically review the Schelling model and its reception, we ask ourselves: How do marginalization and freedom of choice intersect, and what are the real-world intricacies of models that do not account for this intersection?
+**2023:** For this work in progress that wants to critically review the Schelling model and its reception, we ask ourselves: 
+
+**How do marginalization and freedom of choice intersect, and what are the real-world intricacies of models that do not account for this intersection?**
 
 ## References
 
